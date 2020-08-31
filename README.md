@@ -19,9 +19,5 @@ For using this scripts you need to have a valid API key
 ## API Calls
 
     #01_list_my_organizations.py
-    #02_list_networks_of_organization.py
-    #03_list_devices_of_org.py
-    #04_list_devices_of_network.py
-    #05_list_licencesinfo_of_PDL_org.py
-    #06_
+    #02_...
 
