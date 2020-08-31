@@ -1,4 +1,4 @@
-# Meraki Python3 v1 API Library 
+# Meraki Python3 v1 API Library Scripts 
 This repository contains a bunch of simple API scripts based on the Meraki Python3 Library v1.
 For using this scripts you need to have a valid API key
 
