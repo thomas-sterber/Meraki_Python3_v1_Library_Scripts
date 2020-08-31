@@ -1,6 +1,8 @@
 # Meraki Python3 v1 API Library Scripts 
 This repository contains a bunch of simple API scripts based on the Meraki Python3 Library v1.
-For using this scripts you need to have a valid API key
+For using this scripts you need to have a valid API key.
+
+You need to have Python3 installed
 
 
 ## Install Library
@@ -21,3 +23,11 @@ For using this scripts you need to have a valid API key
     #01_list_my_organizations.py
     #02_...
 
+## Using the demo scripts
+
+    #./01_list_my_orgs.py
+
+    just start the script
+    
+    
+    
