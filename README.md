@@ -8,10 +8,13 @@ For using this scripts you need to have a valid API key
     #pip3 show meraki
 
 ## API script informations
-    #list.xxxx    == get    calls
-    #create.xxxx  == post   calls
-    #update.xxxx  == put    calls
-    #delete.xxxx  == delete calls
+
+    #get_accesstoken.py                 == modul which will be imported by the scripts
+    #
+    #list.xxxx                          == get    calls
+    #create.xxxx                        == post   calls
+    #update.xxxx                        == put    calls
+    #delete.xxxx                        == delete calls
     
 ## API Calls
 
