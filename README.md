@@ -13,10 +13,12 @@ You need to have Python3 installed
 
     #get_accesstoken.py                 == modul which will be imported by the scripts
     #
-    #list.xxxx                          == get    calls
-    #create.xxxx                        == post   calls
-    #update.xxxx                        == put    calls
-    #delete.xxxx                        == delete calls
+    # Folder
+    # --------
+    #list_get                           == get    calls
+    #create_post                        == post   calls
+    #update_put                         == put    calls
+    #delete_delete                      == delete calls
     
 ## API Calls
 
