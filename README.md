@@ -1,9 +1,8 @@
 # Meraki Python3 v1 API Library Scripts 
 This repository contains a bunch of simple API scripts based on the Meraki Python3 Library v1.
-For using this scripts you need to have a valid API key.
 
-You need to have Python3 installed
-
+You need a valid API key and Python3.
+All scripts are tested on a Debian based system.
 
 ## Install Library
     #pip3 install meraki
