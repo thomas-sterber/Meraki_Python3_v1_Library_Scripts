@@ -243,7 +243,7 @@ if __name__ == "__main__":
 		) 
 
 
-	# run API call		Get inventory of org
+	# run API call	
 	# ---------------
 	#
 	organizationId = get_org_id()
