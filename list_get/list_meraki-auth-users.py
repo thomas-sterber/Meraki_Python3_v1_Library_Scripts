@@ -14,7 +14,8 @@ __status__      = "demo"
 
 
 info = '''
-	Meraki 802.1X and Splash User Manager
+	Meraki 802.1X and Splash User 
+	list users
 	(currently supports 802.1X and Splash Guest users, and currently, organizations have a 50,000 user cap)
 		
 		
