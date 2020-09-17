@@ -32,4 +32,7 @@ All scripts are tested on a Debian based system.
     just start the script
     
     
+## You want to learn more about Meraki API scripts ?
+    run the API Adventure Lab 3.0 - cs.co/adventure3
     
+
