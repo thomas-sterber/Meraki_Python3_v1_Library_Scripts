@@ -17,7 +17,7 @@ All scripts are tested on a Debian based system.
     #list_get                           == get    calls
     #create_update_delete               == post, put, delete   calls
     #orgwide_monitor                    == scripts  for monitoring orgwide stuff like VPN statuses,...
-    #api_based_tools                    == like Meraki-Auth-Manager,  managing the Meraki user authentication service for 802.1X clients
+    #api_based_tools                    == like Meraki_Auth_User_Tool,  managing the Meraki user authentication service for 802.1X clients
     
     
 ## API Calls
