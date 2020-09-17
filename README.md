@@ -15,18 +15,19 @@ All scripts are tested on a Debian based system.
     # Folder
     # --------
     #list_get                           == get    calls
-    #create_post                        == post   calls
-    #update_put                         == put    calls
-    #delete_delete                      == delete calls
+    #create_update_delete               == post, put, delete   calls
+    #orgwide_monitor                    == scripts  for monitoring orgwide stuff like VPN statuses,...
+    #api_based_tools                    == like Meraki-Auth-Manager,  managing the Meraki user authentication service for 802.1X clients
+    
     
 ## API Calls
 
-    #01_list_my_organizations.py
-    #02_...
+    #0list_my_organizations.py
+    #...
 
 ## Using the demo scripts
 
-    #./01_list_my_orgs.py
+    #list_my_orgs.py
 
     just start the script
     
