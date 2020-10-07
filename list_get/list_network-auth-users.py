@@ -148,8 +148,7 @@ def show_network_users(network_users):
 	return()
 
 
-def select_network_user(network_users):
-	pass
+
 
 
 
