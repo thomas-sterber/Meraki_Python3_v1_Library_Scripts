@@ -128,7 +128,7 @@ def select_network(networksdic):
 
 def get_network_users(networkId):
 	network_users = dashboard_call.networks.getNetworkMerakiAuthUsers(networkId)
-	print(json.dumps(network_users, indent=2))
+	#print(json.dumps(network_users, indent=2))
 	return(network_users)
 
 
