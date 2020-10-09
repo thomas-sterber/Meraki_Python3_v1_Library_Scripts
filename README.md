@@ -8,6 +8,10 @@ All scripts are tested on a Debian based system.
     #pip3 install meraki
     #pip3 show meraki
 
+## Upgrade Library to latest version
+    #pip3 install --upgrade meraki
+    #pip3 show meraki
+
 ## API script informations
 
     #get_accesstoken.py                 == modul which will be imported by the scripts
