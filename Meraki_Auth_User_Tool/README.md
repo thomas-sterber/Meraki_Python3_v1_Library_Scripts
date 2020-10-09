@@ -14,4 +14,7 @@
         network auth = open
         Splash access = Meraki Auth
         
+    #network-clientVPN-user_create.py
+        create a new ClientVPN user for a available MX network
+        
     
