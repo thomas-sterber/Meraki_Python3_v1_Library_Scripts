@@ -9,4 +9,9 @@
     #network-802.1X-user_create.py
         create a new Wifi 802.1X user without expiration date
         
+    #network-guest-user_create.py
+        create a new Wifi Splashaccess user.
+        network auth = open
+        Splash access = Meraki Auth
         
+    
