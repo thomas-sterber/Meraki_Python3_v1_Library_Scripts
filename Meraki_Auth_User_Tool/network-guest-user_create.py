@@ -122,7 +122,7 @@ def select_network(networksdic):
 def get_ssidNumbers(networkId):   
 	# create dictionary  ' ssidName:ssidNumber ' for all SSIDs with authMode 802.1X Meraki and "splashPage": "None"
 	network_ssids = dashboard_call.wireless.getNetworkWirelessSsids(networkId)
-	print(json.dumps(network_ssids, indent=2))
+	# print(json.dumps(network_ssids, indent=2))
 	#
 	ssids_dic = {}
 	for n in network_ssids:
